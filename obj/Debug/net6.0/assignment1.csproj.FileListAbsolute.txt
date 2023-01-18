@@ -1,0 +1,15 @@
+D:\W-Working\job\integrify\dn\assignment1\obj\Debug\net6.0\assignment1.csproj.AssemblyReference.cache
+D:\W-Working\job\integrify\dn\assignment1\obj\Debug\net6.0\assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\W-Working\job\integrify\dn\assignment1\obj\Debug\net6.0\assignment1.AssemblyInfoInputs.cache
+D:\W-Working\job\integrify\dn\assignment1\obj\Debug\net6.0\assignment1.AssemblyInfo.cs
+D:\W-Working\job\integrify\dn\assignment1\obj\Debug\net6.0\assignment1.csproj.CoreCompileInputs.cache
+D:\W-Working\job\integrify\dn\assignment1\bin\Debug\net6.0\assignment1.exe
+D:\W-Working\job\integrify\dn\assignment1\bin\Debug\net6.0\assignment1.deps.json
+D:\W-Working\job\integrify\dn\assignment1\bin\Debug\net6.0\assignment1.runtimeconfig.json
+D:\W-Working\job\integrify\dn\assignment1\bin\Debug\net6.0\assignment1.dll
+D:\W-Working\job\integrify\dn\assignment1\bin\Debug\net6.0\assignment1.pdb
+D:\W-Working\job\integrify\dn\assignment1\obj\Debug\net6.0\assignment1.dll
+D:\W-Working\job\integrify\dn\assignment1\obj\Debug\net6.0\refint\assignment1.dll
+D:\W-Working\job\integrify\dn\assignment1\obj\Debug\net6.0\assignment1.pdb
+D:\W-Working\job\integrify\dn\assignment1\obj\Debug\net6.0\assignment1.genruntimeconfig.cache
+D:\W-Working\job\integrify\dn\assignment1\obj\Debug\net6.0\ref\assignment1.dll
